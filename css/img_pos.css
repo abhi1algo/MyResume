@@ -1,0 +1,67 @@
+
+.mount{
+    width: 5px;
+    display: inline-block;
+    }
+
+
+    .T1cloud{
+        height: 35%;
+        width: 25%;
+        position: absolute;
+        left: 14%;
+        top: 0%;
+        }
+
+
+    .T2cloud{
+        height: 34%;
+        width: 24%;
+    position: absolute;
+    right: 17%;
+    top: 0%;
+    
+    }
+    
+    .B1cloud{
+    height: 38%px;
+    width: 26%;
+    position: absolute;
+    left: 5%;
+    top: 45%;
+    }
+
+
+    .B2cloud{
+        height: 38%px;
+        width: 28%;
+        position: absolute;
+        right: 10%;
+        top: 41%;
+        
+        }
+    
+    .B3cloud{
+
+        height: 45%;
+        width: 30%;
+        position: absolute;
+        left: 9%;
+        top: 85%;
+
+    }
+
+   .B4cloud{
+    height: 44%;
+    width: 30%;
+    position: absolute;
+    right: 12.5%;
+    top:97%;
+
+    }
+
+    .mountain{
+        height: 100%;
+        width: 80%;
+
+    }
